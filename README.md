@@ -1,6 +1,7 @@
-#First HTML pages
+# First HTML pages
 
-##Just test HTML and first README file
+## Just test HTML and first README file
+
 ---
 
 I have 3 file:
@@ -11,5 +12,6 @@ I have 3 file:
 3. style.css
 ```
 
-##My contact
+## My contact
+
 [![Telegram](/images/logo.png)](https://t.me/arina_nabokina_15)
